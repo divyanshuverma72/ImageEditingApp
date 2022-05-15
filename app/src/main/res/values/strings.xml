@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EditingApp</string>
+    <string name="take_picture">Take selfie</string>
+    <string name="upload_from_gallery">Upload from Gallery</string>
+    <string name="undo">UNDO</string>
+    <string name="rotate">ROTATE</string>
+    <string name="crop">CROP</string>
+    <string name="save">SAVE</string>
+    <string name="image_saved_msg">Photo has been saved successfully in Gallery.</string>
+    <string name="restart_camera">Restart camera</string>
+</resources>
